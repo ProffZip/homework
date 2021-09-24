@@ -16,8 +16,13 @@ namespace lab2_4
                 Console.WriteLine("enter "+n+" points {x(enter)y(enter)name(enter)}\nplease notice: you should enter the points in the right order, \nthe way they are in your figure");
             for (int i = 0; i < n; i++ )//по сути точки должны быть введены по/против часовой
             {                           //иначе оно начнёт считать отрезки в том порядке в котором вы его вводили
-                Console.WriteLine("X:"); //и получится звезда а не пятиугольник
-                Console.ReadLine();
+                                        //и получится звезда а не пятиугольник
+                Console.WriteLine("X:"); 
+
+                Console.ReadLine();//<- вот эта мерзость не даёт крашнуться циклу, при первом прохождении ничего не меняется,
+                                   //но на второе и далее нужно сначала просто нажать энтэр а потом ввести значение
+                                   // без нее при первом прохождении программа не даёт ввести значение и сразу считывает
+                                   // пустое поле попутно ругаясь на неправильные данные
                 int x = Convert.ToInt32(Console.ReadLine());
                 Console.WriteLine("Y:");
                 
