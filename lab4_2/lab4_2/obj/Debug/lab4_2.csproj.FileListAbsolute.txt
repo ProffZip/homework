@@ -1,0 +1,7 @@
+D:\Учёба\прог\hw_git\lab4_2\lab4_2\bin\Debug\lab4_2.exe.config
+D:\Учёба\прог\hw_git\lab4_2\lab4_2\bin\Debug\lab4_2.exe
+D:\Учёба\прог\hw_git\lab4_2\lab4_2\bin\Debug\lab4_2.pdb
+D:\Учёба\прог\hw_git\lab4_2\lab4_2\obj\Debug\lab4_2.csprojAssemblyReference.cache
+D:\Учёба\прог\hw_git\lab4_2\lab4_2\obj\Debug\lab4_2.csproj.CoreCompileInputs.cache
+D:\Учёба\прог\hw_git\lab4_2\lab4_2\obj\Debug\lab4_2.exe
+D:\Учёба\прог\hw_git\lab4_2\lab4_2\obj\Debug\lab4_2.pdb
