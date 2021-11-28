@@ -1,0 +1,16 @@
+D:\Учёба\прог\hw_git\lab6_3\lab6_3\bin\Debug\net5.0\lab6_3.exe
+D:\Учёба\прог\hw_git\lab6_3\lab6_3\bin\Debug\net5.0\lab6_3.deps.json
+D:\Учёба\прог\hw_git\lab6_3\lab6_3\bin\Debug\net5.0\lab6_3.runtimeconfig.json
+D:\Учёба\прог\hw_git\lab6_3\lab6_3\bin\Debug\net5.0\lab6_3.runtimeconfig.dev.json
+D:\Учёба\прог\hw_git\lab6_3\lab6_3\bin\Debug\net5.0\lab6_3.dll
+D:\Учёба\прог\hw_git\lab6_3\lab6_3\bin\Debug\net5.0\ref\lab6_3.dll
+D:\Учёба\прог\hw_git\lab6_3\lab6_3\bin\Debug\net5.0\lab6_3.pdb
+D:\Учёба\прог\hw_git\lab6_3\lab6_3\obj\Debug\net5.0\lab6_3.csproj.AssemblyReference.cache
+D:\Учёба\прог\hw_git\lab6_3\lab6_3\obj\Debug\net5.0\lab6_3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учёба\прог\hw_git\lab6_3\lab6_3\obj\Debug\net5.0\lab6_3.AssemblyInfoInputs.cache
+D:\Учёба\прог\hw_git\lab6_3\lab6_3\obj\Debug\net5.0\lab6_3.AssemblyInfo.cs
+D:\Учёба\прог\hw_git\lab6_3\lab6_3\obj\Debug\net5.0\lab6_3.csproj.CoreCompileInputs.cache
+D:\Учёба\прог\hw_git\lab6_3\lab6_3\obj\Debug\net5.0\lab6_3.dll
+D:\Учёба\прог\hw_git\lab6_3\lab6_3\obj\Debug\net5.0\ref\lab6_3.dll
+D:\Учёба\прог\hw_git\lab6_3\lab6_3\obj\Debug\net5.0\lab6_3.pdb
+D:\Учёба\прог\hw_git\lab6_3\lab6_3\obj\Debug\net5.0\lab6_3.genruntimeconfig.cache
